@@ -1,0 +1,14 @@
+.coinpaprika_shortcode img {
+  width: 20px;
+  height: 20px;
+  vertical-align: top;
+  box-shadow: none !important;
+}
+
+.coinpaprika_shortcode span.up {
+  color: #43aa05;
+}
+
+.coinpaprika_shortcode span.down {
+  color: #e15241;
+}
